@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ApiGenero</string>
+    <string name="tv_aviso">Hola!\n Voy a adivinar tu genero\n Con solo tu nombre</string>
+    <string name="hintNombre">Ingresa tu nombre</string>
+    <string name="buttonAceptar">Aceptar</string>
+    <string name="tv_sexo">Yo determine que eres %s</string>
+</resources>
